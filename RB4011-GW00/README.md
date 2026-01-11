@@ -1,8 +1,9 @@
-# Дока по конфигурации периметрового маршрутизатора домашней лаборатории на базе MikroTik RB4011iGS+5HacQ2HnD под управлением RouterOS 7.20.6.
+# Дока по конфигурации периметрового маршрутизатора домашней лаборатории на базе MikroTik RB4011iGS+5HacQ2HnD под управлением RouterOS 7.20.7.
 ## Dual-WAN Gateway с сегментацией LAN/DMZ/VPN
-![RouterOS](https://img.shields.io/badge/RouterOS-7.20.6-blue
-)
 ![Model](https://img.shields.io/badge/Model-RB4011iGS%2B5HacQ2HnD-red)
+
+![RouterOS](https://img.shields.io/badge/RouterOS-7.20.7-blue) 
+
 ---
 
 ## Введение
