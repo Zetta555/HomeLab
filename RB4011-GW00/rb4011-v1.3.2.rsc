@@ -1,5 +1,18 @@
-[admin@RB4011-GW00] > /export
-# 2026-01-11 05:55:55 by RouterOS 7.20.6
+  MMM      MMM       KKK                          TTTTTTTTTTT      KKK
+  MMMM    MMMM       KKK                          TTTTTTTTTTT      KKK
+  MMM MMMM MMM  III  KKK  KKK  RRRRRR     OOOOOO      TTT     III  KKK  KKK
+  MMM  MM  MMM  III  KKKKK     RRR  RRR  OOO  OOO     TTT     III  KKKKK
+  MMM      MMM  III  KKK KKK   RRRRRR    OOO  OOO     TTT     III  KKK KKK
+  MMM      MMM  III  KKK  KKK  RRR  RRR   OOOOOO      TTT     III  KKK  KKK
+
+  MikroTik RouterOS 7.20.7 (c) 1999-2026       https://www.mikrotik.com/
+
+
+Press F1 for help
+
+
+[zestd55@RB4011-GW00] > /export
+# 2026-01-11 18:35:14 by RouterOS 7.20.7
 # software id = 1111-AAAA
 #
 # model = RB4011iGS+5HacQ2HnD
